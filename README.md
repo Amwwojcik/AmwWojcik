@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Amwwojcik
 - 👀 I’m interested in Python.
 - 🌱 I’m currently learning to use PyCharm
-- 💞️ I’m looking to collaborate on mine application development.
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on my tool for mathematical equation modelling.
+- 📫 amwwojcik@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
