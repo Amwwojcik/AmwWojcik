@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amwwojcik
+- 👋 Hi, I’m @AmwWojcik
 - 👀 I’m interested in Python.
 - 🌱 I’m currently learning to use PyCharm
 - 💞️ I’m looking to collaborate on my tool for mathematical equation modelling.
